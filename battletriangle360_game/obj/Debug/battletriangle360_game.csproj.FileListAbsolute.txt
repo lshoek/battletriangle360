@@ -1,0 +1,5 @@
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\battletriangle360_game\bin\Debug\battletriangle360_game.exe
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\battletriangle360_game\bin\Debug\battletriangle360_game.pdb
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\battletriangle360_game\obj\Debug\battletriangle360_game.csprojResolveAssemblyReference.cache
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\battletriangle360_game\obj\Debug\battletriangle360_game.exe
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\battletriangle360_game\obj\Debug\battletriangle360_game.pdb

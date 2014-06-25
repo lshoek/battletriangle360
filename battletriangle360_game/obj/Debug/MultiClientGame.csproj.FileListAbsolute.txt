@@ -1,0 +1,5 @@
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\MultiClientGame\obj\Debug\MultiClientGame.csprojResolveAssemblyReference.cache
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\MultiClientGame\bin\Debug\MultiClientGame.exe
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\MultiClientGame\bin\Debug\MultiClientGame.pdb
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\MultiClientGame\obj\Debug\MultiClientGame.exe
+C:\Users\Lesley\Documents\SVN_Projects\battletriangle360\MultiClientGame\obj\Debug\MultiClientGame.pdb
